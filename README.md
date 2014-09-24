@@ -1,4 +1,4 @@
 StackImplementation
 ===================
 
-This is a stack implementation in c# that consists of two different implementation that are array and link list.
+My personal stack implementation in c# that consists of two different implementation of stack using  array and linked list.
